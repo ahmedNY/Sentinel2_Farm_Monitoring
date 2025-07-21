@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+*.pyc
+# Ignore virtual environments
+venv/
+.venv/
+# Ignore environment-specific files
+.env
+# Ignore sensitive config file if you put credentials there
+config.py
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+# Ignore the output directory for results (this is important to prevent large files!)
+farm_analysis_results_eolearn_best_practice/
+# Ignore any other large output files
+*.tif
+*.png
