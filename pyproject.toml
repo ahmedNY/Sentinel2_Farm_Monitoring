@@ -12,3 +12,8 @@ dependencies = [
     "matplotlib>=3.10.3",
     "sentinelhub>=3.11.1",
 ]
+
+[dependency-groups]
+dev = [
+    "nbstripout>=0.8.1",
+]
