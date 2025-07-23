@@ -1,0 +1,14 @@
+[project]
+name = "sentinel2-farm-monitoring"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "geojson>=3.2.0",
+    "ipykernel>=6.30.0",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "sentinelhub>=3.11.1",
+]
