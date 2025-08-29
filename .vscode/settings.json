@@ -1,15 +1,35 @@
 {
   "cSpell.words": [
+    "cmap",
+    "colorbar",
     "dotenv",
+    "edgecolor",
     "eolearn",
     "eopatch",
     "eopatches",
+    "errstate",
+    "facecolor",
+    "figsize",
     "Gedaref",
+    "imshow",
+    "linestyle",
+    "maxx",
+    "maxy",
     "miny",
+    "mosaicking",
     "MSAVI",
+    "nanmax",
+    "nanmedian",
     "NDMI",
+    "NDWI",
+    "newaxis",
     "sentinelhub",
+    "SWIR",
+    "viridis",
     "vmax",
-    "vmin"
+    "vmin",
+    "xlabel",
+    "xticks",
+    "ylabel"
   ]
 }
